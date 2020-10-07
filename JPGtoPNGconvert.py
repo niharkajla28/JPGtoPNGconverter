@@ -54,5 +54,5 @@ if __name__ == '__main__':
         img = Image.open(item[0])
         img.save(item[1], 'png')
 
-    print('done ')
+    print('done with the transfer of file with png format.')
 
